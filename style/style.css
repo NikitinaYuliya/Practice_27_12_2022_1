@@ -20,6 +20,11 @@ body {
     align-items: center;
   }
 
+.block_info_img img {
+width: 720px;
+    height:720px;
+}
+
   .block_info {
     display: flex;
     align-items: flex-start;
