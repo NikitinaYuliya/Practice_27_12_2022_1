@@ -3,6 +3,10 @@ body {
     background: #1E1E1E;
 }
 
+.button_info a {
+  color: #1e1e1e;
+}
+
 .main {
     display: flex;
     flex-direction: row;
