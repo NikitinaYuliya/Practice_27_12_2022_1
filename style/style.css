@@ -23,6 +23,7 @@ body {
 .block_info_img img {
 width: 720px;
     height:720px;
+    object-fit: cover;
 }
 
   .block_info {
